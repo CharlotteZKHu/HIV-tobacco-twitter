@@ -1,0 +1,9 @@
+{
+    "tobacco": ["bidi", "bidis", "cig", "cigar", "cigars", "cigarette", "cigarettes", "cigarillos", "cigarillo", "cigars", "cigs", "durrie", "durries","e cig", "e cigs", 
+    "e-cigarette", "e-cigarettes", "e-cig", "ecigs", "ecig", "ecigs", "ecigarette", "ecigarettes", "hookah", "kretek", "kreteks", "nicorette", "nicotine", "smoking", "snuff",
+    "snus", "tobacco", "vape", "vaper", "vaping", "iqos"],
+    "hiv_testing": ["test", "tests", "tested", "testing", "oraquick"],
+    "hiv_prep": ["prep", "prophylaxis", "truvada", "descovy", "apretude"],
+    "ecig_keywords_string": ["e cig", "e cigs", "e-cigarette", "e-cigarettes", "e-cig", "ecigs", "ecig", "ecigs", "ecigarette", "cigarettes"],
+    "vape_keywords_string": ["vape", "vaper", "vaping"]
+}
