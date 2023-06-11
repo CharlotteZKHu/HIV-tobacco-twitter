@@ -29,7 +29,7 @@ def get_weeks(start_time, end_time):
     while True:
         new_time = (prev - week)
         yield new_time.isoformat(), prev.isoformat()
-        if new_time < end_time:
+        if str(new_time) < end_time:
             break
         prev = new_time
 
