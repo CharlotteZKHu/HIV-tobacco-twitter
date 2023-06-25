@@ -288,7 +288,7 @@ if __name__ == "__main__":
     # was at 145k
     # start_time = '2023-02-11T00:00:00Z'
     # end_time = '2021-02-01T00:00:00z'
-    start_time = '2023-06-03T00:00:00Z'
+    start_time = '2023-06-25T00:00:00Z'
     end_time = '2010-01-01T00:00:00z'
 
 
